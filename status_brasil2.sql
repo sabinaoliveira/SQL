@@ -1,3 +1,5 @@
+-- Editor SQL > Novo Script SQL
+
 CREATE TABLE Municipio_Status (
 status_ID INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
 populacao_residente INTEGER NOT NULL,
